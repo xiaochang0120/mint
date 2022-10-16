@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4412475",
+      "name": "进度",
+      "font_class": "jindu",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "6999191",
+      "name": "放大",
+      "font_class": "fangda",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "7339835",
+      "name": "日历",
+      "font_class": "rili",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "11372721",
+      "name": "相机",
+      "font_class": "xiangji",
+      "unicode": "e8bc",
+      "unicode_decimal": 59580
+    },
+    {
+      "icon_id": "18028251",
+      "name": "记录",
+      "font_class": "jilu",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1302",
+      "name": "加",
+      "font_class": "jia",
+      "unicode": "f0175",
+      "unicode_decimal": 983413
+    },
+    {
+      "icon_id": "765611",
+      "name": "消息",
+      "font_class": "shouye",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "942961",
+      "name": "扫描二维码",
+      "font_class": "icon2",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "1398686",
+      "name": "3,六边形,复杂,three",
+      "font_class": "three",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "1718353",
+      "name": "下箭头",
+      "font_class": "xiajiantou",
+      "unicode": "f034e",
+      "unicode_decimal": 983886
+    },
+    {
+      "icon_id": "2121760",
+      "name": "汉堡",
+      "font_class": "hanbao",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "2674927",
+      "name": "箭头 上",
+      "font_class": "jiantoushang",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "2674928",
+      "name": "箭头 右",
+      "font_class": "jiantouyou",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "2674929",
+      "name": "箭头 下",
+      "font_class": "jiantouxia",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "5221529",
+      "name": "苹果",
+      "font_class": "pingguo",
+      "unicode": "e6ca",
+      "unicode_decimal": 59082
+    },
+    {
+      "icon_id": "5642672",
+      "name": "面条",
+      "font_class": "miantiao",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "7095463",
+      "name": "服饰-运动鞋",
+      "font_class": "fushi-yundongxie",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "13608627",
+      "name": "包包",
+      "font_class": "baobao",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "15659376",
+      "name": "面条",
+      "font_class": "miantiao1",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "17784746",
+      "name": "煎蛋",
+      "font_class": "jiandan",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "19689660",
+      "name": "王冠",
+      "font_class": "crown-fill",
+      "unicode": "eb72",
+      "unicode_decimal": 60274
+    },
+    {
+      "icon_id": "27547133",
+      "name": "发现",
+      "font_class": "faxian",
+      "unicode": "e77d",
+      "unicode_decimal": 59261
+    }
+  ]
+}

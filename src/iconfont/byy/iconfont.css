@@ -1,0 +1,121 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1665561836792') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-emoji:before {
+  content: "\e64a";
+}
+
+.icon-camera:before {
+  content: "\e665";
+}
+
+.icon-goods:before {
+  content: "\e6cd";
+}
+
+.icon-fenxiang:before {
+  content: "\e683";
+}
+
+.icon-wubiaoqing:before {
+  content: "\e64b";
+}
+
+.icon-gengduo:before {
+  content: "\e748";
+}
+
+.icon-ico_fenxiang:before {
+  content: "\e619";
+}
+
+.icon-zhixiangzuozuojiantou:before {
+  content: "\e76a";
+}
+
+.icon-pinglun:before {
+  content: "\e8c5";
+}
+
+.icon-favourited:before {
+  content: "\e616";
+}
+
+.icon-liked:before {
+  content: "\e617";
+}
+
+.icon-at:before {
+  content: "\e81e";
+}
+
+.icon-biaoji:before {
+  content: "\e604";
+}
+
+.icon-xiaoxi:before {
+  content: "\e611";
+}
+
+.icon-huoti:before {
+  content: "\e622";
+}
+
+.icon-bianji:before {
+  content: "\e818";
+}
+
+.icon-hashjinghao:before {
+  content: "\e6da";
+}
+
+.icon-yichang_weixian_jubao:before {
+  content: "\e799";
+}
+
+.icon-youjian:before {
+  content: "\e714";
+}
+
+.icon-a-youkaobian:before {
+  content: "\e610";
+}
+
+.icon-canpan-yuanding:before {
+  content: "\e65a";
+}
+
+.icon-yonghu-01:before {
+  content: "\e640";
+}
+
+.icon-gouwudai-02:before {
+  content: "\e66e";
+}
+
+.icon-shouye-05:before {
+  content: "\e6bd";
+}
+
+.icon-a-wangluoxingqiu-02:before {
+  content: "\e7a0";
+}
+
+.icon-jiaoyijilu:before {
+  content: "\e7b1";
+}
+
+.icon-sousuo:before {
+  content: "\e6c7";
+}
+

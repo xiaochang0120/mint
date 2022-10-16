@@ -1,0 +1,191 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1360",
+      "name": "新浪微博",
+      "font_class": "xinlangweibo",
+      "unicode": "f01af",
+      "unicode_decimal": 983471
+    },
+    {
+      "icon_id": "5030",
+      "name": "购物车满",
+      "font_class": "gouwucheman",
+      "unicode": "344b",
+      "unicode_decimal": 13387
+    },
+    {
+      "icon_id": "145425",
+      "name": "灯泡提示",
+      "font_class": "dengpaotishi",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "376206",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "577363",
+      "name": "首页-fill",
+      "font_class": "shouyefill",
+      "unicode": "e750",
+      "unicode_decimal": 59216
+    },
+    {
+      "icon_id": "577402",
+      "name": "向右1",
+      "font_class": "xiangyou1",
+      "unicode": "e775",
+      "unicode_decimal": 59253
+    },
+    {
+      "icon_id": "651192",
+      "name": "我的订单",
+      "font_class": "wodedingdan0101",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "657506",
+      "name": "信息",
+      "font_class": "xinxi",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "689286",
+      "name": "时间 钟表",
+      "font_class": "shijianzhongbiao",
+      "unicode": "e810",
+      "unicode_decimal": 59408
+    },
+    {
+      "icon_id": "879144",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "911025",
+      "name": "weixin",
+      "font_class": "weixin",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "1660738",
+      "name": "花朵",
+      "font_class": "huaduo",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "2794636",
+      "name": "星球",
+      "font_class": "xingqiu",
+      "unicode": "e8e7",
+      "unicode_decimal": 59623
+    },
+    {
+      "icon_id": "2815733",
+      "name": "文件夹",
+      "font_class": "wenjianjia",
+      "unicode": "e552",
+      "unicode_decimal": 58706
+    },
+    {
+      "icon_id": "5643807",
+      "name": "扁平管理",
+      "font_class": "bianpingguanli",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "8515040",
+      "name": "体检报告",
+      "font_class": "tijianbaogao",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "10226083",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "11391489",
+      "name": "电脑",
+      "font_class": "diannao",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "16385588",
+      "name": "购物袋",
+      "font_class": "biaoqianA01_gouwudai-69",
+      "unicode": "eabc",
+      "unicode_decimal": 60092
+    },
+    {
+      "icon_id": "17795302",
+      "name": "订单完成",
+      "font_class": "complete",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "18405471",
+      "name": "我的，我",
+      "font_class": "wodewo",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    },
+    {
+      "icon_id": "18406367",
+      "name": "笔记，记录",
+      "font_class": "bijijilu",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    },
+    {
+      "icon_id": "19449147",
+      "name": "扇形图",
+      "font_class": "shanxingtu",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "21242889",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "21645885",
+      "name": "兑换",
+      "font_class": "duihuan",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "26666479",
+      "name": "餐盘-圆顶",
+      "font_class": "canpan-yuanding",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    }
+  ]
+}
